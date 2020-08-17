@@ -42,6 +42,8 @@ makeapp() {
   <integer>0</integer>
   <key>IFMinorVersion</key>
   <integer>1</integer>
+  <key>NSHighResolutionCapable</key>
+  <true/>
   </dict>
   </plist>
 END
